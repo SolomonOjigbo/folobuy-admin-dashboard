@@ -25,7 +25,7 @@ function createData(icon, itemTitle, amount) {
 }
 
 export const featuredData = [
-	createData(KeyboardArrowDownIcon, "Today", "$7.1k"),
+	createData(KeyboardArrowDownIcon, "Today", "$890"),
 	createData(KeyboardArrowUpOutlinedIcon, "Last Week", "$24.8k"),
 	createData(KeyboardArrowUpOutlinedIcon, "Last Month", "$65.3k"),
 ];
