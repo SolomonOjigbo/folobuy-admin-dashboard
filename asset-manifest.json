@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/folobuy-admin-dashboard/static/css/main.8987c732.css",
+    "main.js": "/folobuy-admin-dashboard/static/js/main.0b56ed55.js",
+    "static/media/user4.png": "/folobuy-admin-dashboard/static/media/user4.1add46bf2b72d4d0ee84.png",
+    "static/media/user7.jpg": "/folobuy-admin-dashboard/static/media/user7.5136d73f8db9da0d2f33.jpg",
+    "static/media/user5.jpg": "/folobuy-admin-dashboard/static/media/user5.500fc82b168a4da200de.jpg",
+    "static/media/user9.jpg": "/folobuy-admin-dashboard/static/media/user9.1eda03523834130ad95e.jpg",
+    "static/media/user6.png": "/folobuy-admin-dashboard/static/media/user6.e6d0e252684429ee65a8.png",
+    "static/media/user10.webp": "/folobuy-admin-dashboard/static/media/user10.55eaacdb08f371b555bc.webp",
+    "static/media/profile1.jpg": "/folobuy-admin-dashboard/static/media/profile1.72f6fc8f82f05a315c4a.jpg",
+    "static/media/user8.jpg": "/folobuy-admin-dashboard/static/media/user8.7e1a38d31719dcd567b9.jpg",
+    "static/media/computer-printer.jpg": "/folobuy-admin-dashboard/static/media/computer-printer.630ac1808526082eb0a9.jpg",
+    "static/media/user3.jpg": "/folobuy-admin-dashboard/static/media/user3.ccf77d353c2c66b1ce0b.jpg",
+    "static/media/noimage-icon.jpg": "/folobuy-admin-dashboard/static/media/noimage-icon.6a775bd64913c4f650c6.jpg",
+    "static/media/user1.jpg": "/folobuy-admin-dashboard/static/media/user1.00603b117dbcd2a1c56a.jpg",
+    "static/media/keyboardmouse.webp": "/folobuy-admin-dashboard/static/media/keyboardmouse.7a3e5d5974f5631b161f.webp",
+    "static/media/user2.jpg": "/folobuy-admin-dashboard/static/media/user2.75787a3cf5ed40ecf8a1.jpg",
+    "static/media/Acer.webp": "/folobuy-admin-dashboard/static/media/Acer.683de3ab2611c9c59cc7.webp",
+    "static/media/razerbladePC.webp": "/folobuy-admin-dashboard/static/media/razerbladePC.e7174bd3a900e3dc94ff.webp",
+    "static/media/gameconsole.webp": "/folobuy-admin-dashboard/static/media/gameconsole.c67b3ade0f32131d12e4.webp",
+    "index.html": "/folobuy-admin-dashboard/index.html",
+    "main.8987c732.css.map": "/folobuy-admin-dashboard/static/css/main.8987c732.css.map",
+    "main.0b56ed55.js.map": "/folobuy-admin-dashboard/static/js/main.0b56ed55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8987c732.css",
+    "static/js/main.0b56ed55.js"
+  ]
+}
